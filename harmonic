@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class HarmonicNumber {
+ public static void main(String[] args) {
+ // int n=Integer.parseInt(args[0]);
+     Scanner m=new Scanner(System.in);
+    double n=m.nextDouble();
+    //for(int i=0;i<1;i++)
+     {
+        double harmonic=1;
+        harmonic=harmonic+((float)1/n);
+     
+     
+         System.out.println(harmonic);
+        
+    
+    
+}
+}
+ }
